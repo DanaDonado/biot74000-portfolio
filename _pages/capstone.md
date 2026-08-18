@@ -30,22 +30,17 @@ author_profile: true
 
 ## My Capstone Project
 
-[In 2–4 sentences, describe your capstone project for a general reader. What
-question or problem does it address? Why does it matter? Avoid program-specific
-jargon.]
+My capstone project investigates whether nisin and rosmarinic acid can reduce the growth of _Listeria monocytogenes_, a food-borne pathogen that can be difficult to control in food environments. We are testing different concentrations of these two antimicrobials to understand how effectively they inhibit bacterial growth and whether together they could be useful as potential approaches for controlling _L. monocytogenes_. This work is important because finding effective ways to control this pathogen can contribute to safer food production.
 
 ## The Bioinformatics Component
 
-[Describe the specific bioinformatics tool, dataset, or method you applied in
-Assignment 2, and explain why it was the right choice for this problem.]
+For my individual bioinformatics component, I used R and RStudio to analyze the growth-curve data collected from my capstone experiments. The dataset was collected using an Agilent BioTek Synergy H1 microplate reader and contained 49 time points over 24 hours, with measurements for the different treatments and their corresponding blank controls. I used R to select the untreated control, four nisin concentrations, and their blank controls, perform blank correction, calculate the mean OD600 values, and generate growth curves. R was a good choice because it allowed me to process the large dataset systematically and create a reproducible analysis rather than manually working through the measurements.
 
-[In plain language, describe what you found or produced. What did the analysis
-tell you?]
+The analysis showed a concentration-dependent effect of nisin on _Listeria monocytogenes_ growth. The highest concentration tested, 0.060 mM nisin, showed the greatest inhibition and maintained the lowest optical density throughout the 24-hour period. The untreated control showed the most growth, reaching approximately OD600 = 2.0, while the lower nisin concentrations delayed growth but did not suppress it to the same extent.
 
 ## Why It Strengthened My Capstone
 
-[In 1–2 sentences, explain how adding this bioinformatics work made your
-capstone project stronger, more credible, or more complete.]
+Using R strengthened my capstone by turning a large set of raw experimental measurements into a clear visual comparison of how the different nisin concentrations affected bacterial growth. It also gave me a reproducible way to process and interpret the data, making it easier to connect our laboratory results back to the biological question.
 
 <!--
   OPTIONAL — to embed an image or figure you produced:
