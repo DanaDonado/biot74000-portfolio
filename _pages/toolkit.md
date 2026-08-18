@@ -56,6 +56,12 @@ organized by what they are used for._
 
 **Strengths / limitations:** UniProt organizes a large amount of protein information in one place and it is very intuitive, but the annotations still need to be interpreted carefully and do not replace experimental evidence.
 
+### NCBI Gene
+
+**Use example:** I used NCBI Gene to investigate a gene of interest and retrieve information about its organism, sequence, accession information, and biological function.
+
+**Strengths / limitations:** NCBI connects many types of biological information in one place, but the amount of information available can make it difficult to know which resources are most relevant without some practice navigating the database.
+
 ---
 
 ## Protein Structure & Function
