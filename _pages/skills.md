@@ -48,6 +48,6 @@ _Skills I have used in a guided setting and would need support to apply independ
 | Skill / Tool | Level of experience |
 |---|---|
 | BLAST | Used BLAST to investigate sequence similarity during Assignment 1; I understand the basic purpose and workflow but would need more practice to apply it independently to unfamiliar sequence-analysis questions. |
-| NCBI databases | Used NCBI to retrieve and investigate sequence and gene information. I am comfortable navigating basic information.] |
+| NCBI databases | Used NCBI to retrieve and investigate sequence and gene information. I am comfortable navigating basic information. |
 | UniProt | Used UniProt to investigate the NPR3 protein, including its sequence, function, and annotations. I can navigate a protein entry but need more experience interpreting complex protein annotations. |
 | AI-assisted bioinformatics | Used ChatGPT to troubleshoot R code and then tested the suggested changes myself. Since AI is not fail proof I need to understand the core concepts to correct its outputs, this involves critical thinking and not the sole relying on the AI. |
