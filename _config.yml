@@ -42,14 +42,14 @@ repository: "danadonado/biot74000-portfolio"
 # -------------------------------------------------------------------
 author:
   name: "Dana Donado"
-  bio: "Bachelor of Applied Biotechnology (Honours) student."
+  bio: "Bachelor of Applied Biotechnology (Honours)."
   # To add a profile photo: upload a square image to the images/ folder,
   # then put its filename here (e.g. "profile.jpg"). Leave blank for no photo.
   avatar: ""
   # Optional links in your sidebar. Leave blank to hide. Add your own if you like.
-  email: ""
-  github: ""            # your GitHub username, e.g. "yourusername"
-  linkedin: ""          # your LinkedIn handle, e.g. "yourname"
+  email: " dana020326@gmail.com"
+  github: "https://github.com/DanaDonado"            # your GitHub username, e.g. "yourusername"
+  linkedin: "https://www.linkedin.com/in/danadonado/"          # your LinkedIn handle, e.g. "yourname"
 
 # ------------------------------------------------------------------------------
 #  ▲▲▲  END OF SECTION TO EDIT  ▲▲▲
