@@ -29,7 +29,7 @@ redirect_from:
   ============================================================================
 -->
 
-Hello, my name is Dana Donado, a student in the Bachelor of Applied Biotechnology (Honours) program at Conestoga College.
+Hello, my name is Dana Donado, I studied in the Bachelor of Applied Biotechnology (Honours) program at Conestoga College.
 
 
 I am interested in scientific problem-solving with analytical data; quality assurance and environmental testing. I am passionate about these career choices because they offer continous oportunity to learn and be engaged rather than perform a routine task always. While I enjoy laboratory wokr and want to keep builidng my technical expertise, I would also want a career that allows me to grow beyond the benchtop.
