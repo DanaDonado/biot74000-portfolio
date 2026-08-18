@@ -48,7 +48,7 @@ Using R strengthened my capstone by turning a large set of raw experimental meas
   2. Add a line like this where you want it to appear (remove the leading
      grey-comment marks):
 
-     ![Growth of Listeria monocytogenes treated with varying concentrations of nisin](/biot74000-portfolio/images/Growth%20of%20Listeria%20monocytogenes%20Treated%20with%20Varying%20Concentrations%20of%20Nisin.png)
+     ![Growth of Listeria monocytogenes treated with varying concentrations of nisin](/biot74000-portfolio/images/nisin_growth_curve.png)
 
   Make sure the path matches your repository name.
 -->
